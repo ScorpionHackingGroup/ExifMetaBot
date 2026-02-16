@@ -112,7 +112,8 @@ cd ExifMetaBot
 ```bash
 python exifbot.py
 ```
-
+### 3️⃣ Enter The Bot Token
+### 4️⃣ Enter The Your Telegram ChatId Or UserId (Not UserName)
 The script automatically installs:
 
 * pyTelegramBotAPI
