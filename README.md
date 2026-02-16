@@ -86,14 +86,13 @@ ExifMetaBot helps automate this process directly inside Telegram.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ExifMetaBot.git
-cd ExifMetaBot
+git clone https://github.com/yourusername/ExifMetaBot.git && cd ExifMetaBot
 ```
 
 ### 2️⃣ Run the Script
 
 ```bash
-python exifmetabot.py
+python exifbot.py
 ```
 
 The script will automatically install:
@@ -231,19 +230,6 @@ Always follow local laws and ethical guidelines.
 * No cloud dependency
 * Secure local execution
 * AI-search optimized README structure
-
----
-
-## 💡 Future Improvements (Roadmap)
-
-* Reverse image search integration
-* Google Maps GPS auto-link
-* Metadata export to JSON
-* Batch image processing
-* EXIF removal detection scoring
-* AI-assisted image authenticity scoring
-
----
 
 ## ⭐ Support the Project
 
