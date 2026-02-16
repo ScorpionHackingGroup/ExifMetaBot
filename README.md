@@ -1,5 +1,3 @@
----
-
 # ExifMetaBot – Telegram EXIF Metadata Extractor Bot (Python)
 
 ### 📸 2026 Latest Image OSINT Tool for Photo Metadata Analysis
